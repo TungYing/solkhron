@@ -1,0 +1,72 @@
+@import '~antd/dist/antd.css';
+
+
+@font-face{
+  font-family: "Monument Grotest";
+  src: url("../src/asserts/fonts/MonumentGroteskTrial-Regular.otf") format('truetype');
+}
+
+body {
+  font-family: 'Helvetica, Arial, sans-serif';
+}
+
+.App {
+  
+  text-align: center;
+}
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.ant-layout-header{
+  background-color: black;
+}
+
+.ant-menu-dark, .ant-menu-dark .ant-menu-sub{
+  background-color: black;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.ant-layout-footer {
+  background-color:rgba(256,256,256);
+}
+
+.ant-layout-header{
+  background-color:rgba(256,256,256);
+}
+
+.ant-menu-dark.ant-menu-horizontal > .ant-menu-item, .ant-menu-dark.ant-menu-horizontal > .ant-menu-submenu {
+
+  border-color: #001529;
+ 
+}
+
+.description {
+  color : "#ffff"
+}

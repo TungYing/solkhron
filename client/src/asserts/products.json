@@ -1,0 +1,45 @@
+{"data":[
+  {
+    "id" : "earth_kneading_cuff_01",
+    "name" : "EARTH-KNEADING CUFF 01",
+    "price_unit":"NTD",
+    "price": "6,500",
+    "description": "Objects between fingers: H: 25 mm Oval-shaped objects: Ｌ: 15 mm Ｗ: 10 mm",
+    "material":"925 Sterling Silver",
+    "inform": "To customize your jewellry, please send your size to our email and wait for one week to produce. 1.The ring size of the index finger and little finger ( US size ).",
+    "customize": "",
+    "img_src": "Earth_Kneading_cuff_1_1.jpg"
+  },
+  {
+    "id" : "earth_kneading_cuff_02",
+    "name" : "EARTH-KNEADING CUFF 02",
+    "price_unit":"NTD",
+    "price": "5,800",
+    "description": "",
+    "material":"925 Sterling Silver",
+    "inform": "To customize your jewellry, please send your size to our email and wait for one week to produce. US ring size: 2 -13",
+    "customize": "",
+    "img_src" : "Earth_Kneading_cuff_silver_1_2.jpg"
+  },{
+    "id" : "palm_cigarette_snuffer",
+    "name" : "PALM CIGARETTE SNUFFER",
+    "price_unit":"NTD",
+    "price": "6,500",
+    "description": "",
+    "material":"925 Sterling Silver",
+    "inform": "To customize your jewellry, please send your size to our email and wait for one week to produce. 1.The width of your palm. 2. The circumference of your hand Take a photo of your palm and email it to: contect-solkhron@gmail.com",
+    "customize": "As silver is malleable, you can adjust the jewelry slightly to fit the shape of your hand.",
+    "img_src": "Palm_Cigarette_Snuffer_1.jpg"
+    },{
+    "id" : "palmclasp",
+    "name" : "PALMCLASP",
+    "price_unit":"NTD",
+    "price": "6,500",
+    "description": "",
+    "material":"925 Sterling Silver",
+    "inform": "To customize your jewellry, please send your size to our email and wait for one week to produce. 1.The width of your palm 2. The circumference of your hand Take a photo of your palm and email it to: contect-solkhron@gmail.com",
+    "customize": "As silver is malleable, you can adjust the jewelry slightly to fit the shape of your hand.",
+    "img_src" : "palmclasp.jpg"
+  }
+]
+}

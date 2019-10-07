@@ -1,0 +1,19 @@
+/* .product_card{
+  color: #000!important;
+  font-weight: "500";
+  background:#000;  
+  opacity:0.6;
+} */
+.product_info > h2, p{
+  color: #000!important;
+}
+
+.ant-btn-primary {
+  color: #fff;
+  background-color: #DDDDDD;
+  border-color: #DDDDDD;
+}
+.ant-btn-primary:hover .ant-btn-primary:focus{
+  background-color: black; /* Green */
+  color: white;
+}
